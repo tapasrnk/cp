@@ -1,3 +1,5 @@
+// source : https://github.com/galencolin/cp-templates/blob/master/templates/number_theory.cpp
+// by : galencolin
 namespace number_theory {
 	long long gcd(long long x, long long y) {
 	  if (x == 0) return y;
