@@ -16,4 +16,8 @@ void solve() {
             r = m;
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 05d37b8e6c4f0d7debfaebc9555ac6af9742ea1d
